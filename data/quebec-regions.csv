@@ -1,0 +1,505 @@
+﻿date,regions,cases
+2020-03-19,01 - Bas-Saint-Laurent,1
+2020-03-19,02 - Saguenay–Lac-Saint-Jean,0
+2020-03-19,03 - Capitale Nationale,10
+2020-03-19,04 - Mauricie - Centre du Québec,3
+2020-03-19,05 - Estrie,26
+2020-03-19,06 - Montréal,28
+2020-03-19,07 - Outaouais,1
+2020-03-19,08 - Abitibi-Temiscamingue,0
+2020-03-19,09 - Côte-Nord,0
+2020-03-19,10 - Nord-du-Québec,0
+2020-03-19,11 - Gaspésie-Îles-de-la-Madeleine,0
+2020-03-19,12 - Chaudière-Appalaches,6
+2020-03-19,13 - Laval,1
+2020-03-19,14 - Lanaudière,7
+2020-03-19,15 - Laurentides,9
+2020-03-19,16 - Montérégie,19
+2020-03-19,17 - Nunavik,0
+2020-03-19,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-20,01 - Bas-Saint-Laurent,1
+2020-03-20,02 - Saguenay–Lac-Saint-Jean,0
+2020-03-20,03 - Capitale Nationale,10
+2020-03-20,04 - Mauricie - Centre du Québec,4
+2020-03-20,05 - Estrie,26
+2020-03-20,06 - Montréal,31
+2020-03-20,07 - Outaouais,1
+2020-03-20,08 - Abitibi-Temiscamingue,0
+2020-03-20,09 - Côte-Nord,0
+2020-03-20,10 - Nord-du-Québec,1
+2020-03-20,11 - Gaspésie-Îles-de-la-Madeleine,0
+2020-03-20,12 - Chaudière-Appalaches,6
+2020-03-20,13 - Laval,1
+2020-03-20,14 - Lanaudière,7
+2020-03-20,15 - Laurentides,10
+2020-03-20,16 - Montérégie,21
+2020-03-20,17 - Nunavik,0
+2020-03-20,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-21,01 - Bas-Saint-Laurent,1
+2020-03-21,02 - Saguenay–Lac-Saint-Jean,1
+2020-03-21,03 - Capitale Nationale,13
+2020-03-21,04 - Mauricie - Centre du Québec,5
+2020-03-21,05 - Estrie,27
+2020-03-21,06 - Montréal,41
+2020-03-21,07 - Outaouais,3
+2020-03-21,08 - Abitibi-Temiscamingue,0
+2020-03-21,09 - Côte-Nord,0
+2020-03-21,10 - Nord-du-Québec,1
+2020-03-21,11 - Gaspésie-Îles-de-la-Madeleine,0
+2020-03-21,12 - Chaudière-Appalaches,13
+2020-03-21,13 - Laval,3
+2020-03-21,14 - Lanaudière,9
+2020-03-21,15 - Laurentides,14
+2020-03-21,16 - Montérégie,26
+2020-03-21,17 - Nunavik,0
+2020-03-21,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-22,01 - Bas-Saint-Laurent,1
+2020-03-22,02 - Saguenay–Lac-Saint-Jean,1
+2020-03-22,03 - Capitale Nationale,13
+2020-03-22,04 - Mauricie - Centre du Québec,7
+2020-03-22,05 - Estrie,30
+2020-03-22,06 - Montréal,46
+2020-03-22,07 - Outaouais,5
+2020-03-22,08 - Abitibi-Temiscamingue,0
+2020-03-22,09 - Côte-Nord,0
+2020-03-22,10 - Nord-du-Québec,1
+2020-03-22,11 - Gaspésie-Îles-de-la-Madeleine,0
+2020-03-22,12 - Chaudière-Appalaches,13
+2020-03-22,13 - Laval,4
+2020-03-22,14 - Lanaudière,15
+2020-03-22,15 - Laurentides,17
+2020-03-22,16 - Montérégie,40
+2020-03-22,17 - Nunavik,0
+2020-03-22,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-23,01 - Bas-Saint-Laurent,3
+2020-03-23,02 - Saguenay–Lac-Saint-Jean,1
+2020-03-23,03 - Capitale Nationale,33
+2020-03-23,04 - Mauricie - Centre du Québec,16
+2020-03-23,05 - Estrie,48
+2020-03-23,06 - Montréal,265
+2020-03-23,07 - Outaouais,8
+2020-03-23,08 - Abitibi-Temiscamingue,3
+2020-03-23,09 - Côte-Nord,0
+2020-03-23,10 - Nord-du-Québec,1
+2020-03-23,11 - Gaspésie-Îles-de-la-Madeleine,3
+2020-03-23,12 - Chaudière-Appalaches,15
+2020-03-23,13 - Laval,21
+2020-03-23,14 - Lanaudière,50
+2020-03-23,15 - Laurentides,30
+2020-03-23,16 - Montérégie,66
+2020-03-23,17 - Nunavik,0
+2020-03-23,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-24,01 - Bas-Saint-Laurent,4
+2020-03-24,02 - Saguenay–Lac-Saint-Jean,5
+2020-03-24,03 - Capitale Nationale,79
+2020-03-24,04 - Mauricie - Centre du Québec,32
+2020-03-24,05 - Estrie,130
+2020-03-24,06 - Montréal,439
+2020-03-24,07 - Outaouais,12
+2020-03-24,08 - Abitibi-Temiscamingue,5
+2020-03-24,09 - Côte-Nord,1
+2020-03-24,10 - Nord-du-Québec,1
+2020-03-24,11 - Gaspésie-Îles-de-la-Madeleine,7
+2020-03-24,12 - Chaudière-Appalaches,14
+2020-03-24,13 - Laval,60
+2020-03-24,14 - Lanaudière,55
+2020-03-24,15 - Laurentides,44
+2020-03-24,16 - Montérégie,125
+2020-03-24,17 - Nunavik,0
+2020-03-24,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-25,01 - Bas-Saint-Laurent,6
+2020-03-25,02 - Saguenay–Lac-Saint-Jean,8
+2020-03-25,03 - Capitale Nationale,95
+2020-03-25,04 - Mauricie - Centre du Québec,35
+2020-03-25,05 - Estrie,169
+2020-03-25,06 - Montréal,603
+2020-03-25,07 - Outaouais,13
+2020-03-25,08 - Abitibi-Temiscamingue,5
+2020-03-25,09 - Côte-Nord,2
+2020-03-25,10 - Nord-du-Québec,1
+2020-03-25,11 - Gaspésie-Îles-de-la-Madeleine,7
+2020-03-25,12 - Chaudière-Appalaches,46
+2020-03-25,13 - Laval,83
+2020-03-25,14 - Lanaudière,68
+2020-03-25,15 - Laurentides,50
+2020-03-25,16 - Montérégie,148
+2020-03-25,17 - Nunavik,0
+2020-03-25,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-26,01 - Bas-Saint-Laurent,6
+2020-03-26,02 - Saguenay–Lac-Saint-Jean,11
+2020-03-26,03 - Capitale Nationale,103
+2020-03-26,04 - Mauricie - Centre du Québec,49
+2020-03-26,05 - Estrie,187
+2020-03-26,06 - Montréal,782
+2020-03-26,07 - Outaouais,16
+2020-03-26,08 - Abitibi-Temiscamingue,11
+2020-03-26,09 - Côte-Nord,3
+2020-03-26,10 - Nord-du-Québec,1
+2020-03-26,11 - Gaspésie-Îles-de-la-Madeleine,7
+2020-03-26,12 - Chaudière-Appalaches,58
+2020-03-26,13 - Laval,95
+2020-03-26,14 - Lanaudière,72
+2020-03-26,15 - Laurentides,61
+2020-03-26,16 - Montérégie,167
+2020-03-26,17 - Nunavik,0
+2020-03-26,18 - Terres-Cries-de-la-Baie-James,0
+2020-03-27,01 - Bas-Saint-Laurent,7
+2020-03-27,02 - Saguenay–Lac-Saint-Jean,16
+2020-03-27,03 - Capitale Nationale,106
+2020-03-27,04 - Mauricie - Centre du Québec,69
+2020-03-27,05 - Estrie,227
+2020-03-27,06 - Montréal,971
+2020-03-27,07 - Outaouais,18
+2020-03-27,08 - Abitibi-Temiscamingue,18
+2020-03-27,09 - Côte-Nord,6
+2020-03-27,10 - Nord-du-Québec,1
+2020-03-27,11 - Gaspésie-Îles-de-la-Madeleine,7
+2020-03-27,12 - Chaudière-Appalaches,73
+2020-03-27,13 - Laval,130
+2020-03-27,14 - Lanaudière,97
+2020-03-27,15 - Laurentides,81
+2020-03-27,16 - Montérégie,193
+2020-03-27,17 - Nunavik,0
+2020-03-27,18 - Terres-Cries-de-la-Baie-James,1
+2020-03-28,01 - Bas-Saint-Laurent,8
+2020-03-28,02 - Saguenay–Lac-Saint-Jean,18
+2020-03-28,03 - Capitale Nationale,148
+2020-03-28,04 - Mauricie - Centre du Québec,85
+2020-03-28,05 - Estrie,253
+2020-03-28,06 - Montréal,1219
+2020-03-28,07 - Outaouais,26
+2020-03-28,08 - Abitibi-Temiscamingue,24
+2020-03-28,09 - Côte-Nord,13
+2020-03-28,10 - Nord-du-Québec,1
+2020-03-28,11 - Gaspésie-Îles-de-la-Madeleine,9
+2020-03-28,12 - Chaudière-Appalaches,80
+2020-03-28,13 - Laval,160
+2020-03-28,14 - Lanaudière,126
+2020-03-28,15 - Laurentides,108
+2020-03-28,16 - Montérégie,219
+2020-03-28,17 - Nunavik,0
+2020-03-28,18 - Terres-Cries-de-la-Baie-James,1
+2020-03-29,01 - Bas-Saint-Laurent,8
+2020-03-29,02 - Saguenay–Lac-Saint-Jean,18
+2020-03-29,03 - Capitale Nationale,164
+2020-03-29,04 - Mauricie - Centre du Québec,122
+2020-03-29,05 - Estrie,296
+2020-03-29,06 - Montréal,1361
+2020-03-29,07 - Outaouais,28
+2020-03-29,08 - Abitibi-Temiscamingue,27
+2020-03-29,09 - Côte-Nord,17
+2020-03-29,10 - Nord-du-Québec,1
+2020-03-29,11 - Gaspésie-Îles-de-la-Madeleine,9
+2020-03-29,12 - Chaudière-Appalaches,86
+2020-03-29,13 - Laval,180
+2020-03-29,14 - Lanaudière,144
+2020-03-29,15 - Laurentides,120
+2020-03-29,16 - Montérégie,257
+2020-03-29,17 - Nunavik,1
+2020-03-29,18 - Terres-Cries-de-la-Baie-James,1
+2020-03-30,01 - Bas-Saint-Laurent,11
+2020-03-30,02 - Saguenay–Lac-Saint-Jean,24
+2020-03-30,03 - Capitale Nationale,174
+2020-03-30,04 - Mauricie - Centre du Québec,164
+2020-03-30,05 - Estrie,329
+2020-03-30,06 - Montréal,1612
+2020-03-30,07 - Outaouais,38
+2020-03-30,08 - Abitibi-Temiscamingue,28
+2020-03-30,09 - Côte-Nord,26
+2020-03-30,10 - Nord-du-Québec,1
+2020-03-30,11 - Gaspésie-Îles-de-la-Madeleine,13
+2020-03-30,12 - Chaudière-Appalaches,95
+2020-03-30,13 - Laval,257
+2020-03-30,14 - Lanaudière,197
+2020-03-30,15 - Laurentides,169
+2020-03-30,16 - Montérégie,289
+2020-03-30,17 - Nunavik,1
+2020-03-30,18 - Terres-Cries-de-la-Baie-James,2
+2020-03-31,01 - Bas-Saint-Laurent,13
+2020-03-31,02 - Saguenay–Lac-Saint-Jean,31
+2020-03-31,03 - Capitale Nationale,213
+2020-03-31,04 - Mauricie - Centre du Québec,215
+2020-03-31,05 - Estrie,365
+2020-03-31,06 - Montréal,1991
+2020-03-31,07 - Outaouais,50
+2020-03-31,08 - Abitibi-Temiscamingue,34
+2020-03-31,09 - Côte-Nord,30
+2020-03-31,10 - Nord-du-Québec,1
+2020-03-31,11 - Gaspésie-Îles-de-la-Madeleine,37
+2020-03-31,12 - Chaudière-Appalaches,117
+2020-03-31,13 - Laval,272
+2020-03-31,14 - Lanaudière,249
+2020-03-31,15 - Laurentides,199
+2020-03-31,16 - Montérégie,341
+2020-03-31,17 - Nunavik,1
+2020-03-31,18 - Terres-Cries-de-la-Baie-James,3
+2020-04-01,01 - Bas-Saint-Laurent,18
+2020-04-01,02 - Saguenay–Lac-Saint-Jean,32
+2020-04-01,03 - Capitale Nationale,247
+2020-04-01,04 - Mauricie - Centre du Québec,247
+2020-04-01,05 - Estrie,379
+2020-04-01,06 - Montréal,2097
+2020-04-01,07 - Outaouais,64
+2020-04-01,08 - Abitibi-Temiscamingue,41
+2020-04-01,09 - Côte-Nord,35
+2020-04-01,10 - Nord-du-Québec,1
+2020-04-01,11 - Gaspésie-Îles-de-la-Madeleine,37
+2020-04-01,12 - Chaudière-Appalaches,130
+2020-04-01,13 - Laval,338
+2020-04-01,14 - Lanaudière,256
+2020-04-01,15 - Laurentides,263
+2020-04-01,16 - Montérégie,422
+2020-04-01,17 - Nunavik,1
+2020-04-01,18 - Terres-Cries-de-la-Baie-James,3
+2020-04-02,01 - Bas-Saint-Laurent,19
+2020-04-02,02 - Saguenay–Lac-Saint-Jean,32
+2020-04-02,03 - Capitale Nationale,270
+2020-04-02,04 - Mauricie - Centre du Québec,318
+2020-04-02,05 - Estrie,404
+2020-04-02,06 - Montréal,2642
+2020-04-02,07 - Outaouais,75
+2020-04-02,08 - Abitibi-Temiscamingue,47
+2020-04-02,09 - Côte-Nord,42
+2020-04-02,10 - Nord-du-Québec,1
+2020-04-02,11 - Gaspésie-Îles-de-la-Madeleine,38
+2020-04-02,12 - Chaudière-Appalaches,133
+2020-04-02,13 - Laval,411
+2020-04-02,14 - Lanaudière,305
+2020-04-02,15 - Laurentides,290
+2020-04-02,16 - Montérégie,486
+2020-04-02,17 - Nunavik,2
+2020-04-02,18 - Terres-Cries-de-la-Baie-James,3
+2020-04-03,01 - Bas-Saint-Laurent,24
+2020-04-03,02 - Saguenay–Lac-Saint-Jean,44
+2020-04-03,03 - Capitale Nationale,280
+2020-04-03,04 - Mauricie - Centre du Québec,364
+2020-04-03,05 - Estrie,450
+2020-04-03,06 - Montréal,2837
+2020-04-03,07 - Outaouais,81
+2020-04-03,08 - Abitibi-Temiscamingue,58
+2020-04-03,09 - Côte-Nord,47
+2020-04-03,10 - Nord-du-Québec,2
+2020-04-03,11 - Gaspésie-Îles-de-la-Madeleine,41
+2020-04-03,12 - Chaudière-Appalaches,136
+2020-04-03,13 - Laval,476
+2020-04-03,14 - Lanaudière,354
+2020-04-03,15 - Laurentides,319
+2020-04-03,16 - Montérégie,583
+2020-04-03,17 - Nunavik,2
+2020-04-03,18 - Terres-Cries-de-la-Baie-James,3
+2020-04-04,01 - Bas-Saint-Laurent,27
+2020-04-04,02 - Saguenay–Lac-Saint-Jean,50
+2020-04-04,03 - Capitale Nationale,321
+2020-04-04,04 - Mauricie - Centre du Québec,417
+2020-04-04,05 - Estrie,516
+2020-04-04,06 - Montréal,3254
+2020-04-04,07 - Outaouais,93
+2020-04-04,08 - Abitibi-Temiscamingue,67
+2020-04-04,09 - Côte-Nord,54
+2020-04-04,10 - Nord-du-Québec,2
+2020-04-04,11 - Gaspésie-Îles-de-la-Madeleine,47
+2020-04-04,12 - Chaudière-Appalaches,156
+2020-04-04,13 - Laval,546
+2020-04-04,14 - Lanaudière,406
+2020-04-04,15 - Laurentides,366
+2020-04-04,16 - Montérégie,669
+2020-04-04,17 - Nunavik,2
+2020-04-04,18 - Terres-Cries-de-la-Baie-James,3
+2020-04-05,01 - Bas-Saint-Laurent,27
+2020-04-05,02 - Saguenay–Lac-Saint-Jean,79
+2020-04-05,03 - Capitale Nationale,345
+2020-04-05,04 - Mauricie - Centre du Québec,494
+2020-04-05,05 - Estrie,518
+2020-04-05,06 - Montréal,3713
+2020-04-05,07 - Outaouais,109
+2020-04-05,08 - Abitibi-Temiscamingue,83
+2020-04-05,09 - Côte-Nord,58
+2020-04-05,10 - Nord-du-Québec,2
+2020-04-05,11 - Gaspésie-Îles-de-la-Madeleine,54
+2020-04-05,12 - Chaudière-Appalaches,156
+2020-04-05,13 - Laval,640
+2020-04-05,14 - Lanaudière,446
+2020-04-05,15 - Laurentides,408
+2020-04-05,16 - Montérégie,806
+2020-04-05,17 - Nunavik,2
+2020-04-05,18 - Terres-Cries-de-la-Baie-James,4
+2020-04-06,01 - Bas-Saint-Laurent,29
+2020-04-06,02 - Saguenay–Lac-Saint-Jean,93
+2020-04-06,03 - Capitale Nationale,357
+2020-04-06,04 - Mauricie - Centre du Québec,549
+2020-04-06,05 - Estrie,548
+2020-04-06,06 - Montréal,3977
+2020-04-06,07 - Outaouais,117
+2020-04-06,08 - Abitibi-Temiscamingue,101
+2020-04-06,09 - Côte-Nord,68
+2020-04-06,10 - Nord-du-Québec,2
+2020-04-06,11 - Gaspésie-Îles-de-la-Madeleine,62
+2020-04-06,12 - Chaudière-Appalaches,158
+2020-04-06,13 - Laval,712
+2020-04-06,14 - Lanaudière,491
+2020-04-06,15 - Laurentides,413
+2020-04-06,16 - Montérégie,894
+2020-04-06,17 - Nunavik,5
+2020-04-06,18 - Terres-Cries-de-la-Baie-James,4
+2020-04-07,01 - Bas-Saint-Laurent,30
+2020-04-07,02 - Saguenay–Lac-Saint-Jean,103
+2020-04-07,03 - Capitale Nationale,375
+2020-04-07,04 - Mauricie - Centre du Québec,589
+2020-04-07,05 - Estrie,570
+2020-04-07,06 - Montréal,4407
+2020-04-07,07 - Outaouais,129
+2020-04-07,08 - Abitibi-Temiscamingue,108
+2020-04-07,09 - Côte-Nord,71
+2020-04-07,10 - Nord-du-Québec,2
+2020-04-07,11 - Gaspésie-Îles-de-la-Madeleine,66
+2020-04-07,12 - Chaudière-Appalaches,181
+2020-04-07,13 - Laval,759
+2020-04-07,14 - Lanaudière,532
+2020-04-07,15 - Laurentides,447
+2020-04-07,16 - Montérégie,961
+2020-04-07,17 - Nunavik,5
+2020-04-07,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-08,01 - Bas-Saint-Laurent,33
+2020-04-08,02 - Saguenay–Lac-Saint-Jean,118
+2020-04-08,03 - Capitale Nationale,392
+2020-04-08,04 - Mauricie - Centre du Québec,614
+2020-04-08,05 - Estrie,597
+2020-04-08,06 - Montréal,4775
+2020-04-08,07 - Outaouais,130
+2020-04-08,08 - Abitibi-Temiscamingue,111
+2020-04-08,09 - Côte-Nord,75
+2020-04-08,10 - Nord-du-Québec,2
+2020-04-08,11 - Gaspésie-Îles-de-la-Madeleine,75
+2020-04-08,12 - Chaudière-Appalaches,195
+2020-04-08,13 - Laval,831
+2020-04-08,14 - Lanaudière,580
+2020-04-08,15 - Laurentides,459
+2020-04-08,16 - Montérégie,1034
+2020-04-08,17 - Nunavik,5
+2020-04-08,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-09,01 - Bas-Saint-Laurent,33
+2020-04-09,02 - Saguenay–Lac-Saint-Jean,123
+2020-04-09,03 - Capitale Nationale,412
+2020-04-09,04 - Mauricie - Centre du Québec,648
+2020-04-09,05 - Estrie,620
+2020-04-09,06 - Montréal,5262
+2020-04-09,07 - Outaouais,131
+2020-04-09,08 - Abitibi-Temiscamingue,119
+2020-04-09,09 - Côte-Nord,81
+2020-04-09,10 - Nord-du-Québec,2
+2020-04-09,11 - Gaspésie-Îles-de-la-Madeleine,79
+2020-04-09,12 - Chaudière-Appalaches,207
+2020-04-09,13 - Laval,897
+2020-04-09,14 - Lanaudière,664
+2020-04-09,15 - Laurentides,516
+2020-04-09,16 - Montérégie,1108
+2020-04-09,17 - Nunavik,5
+2020-04-09,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-10,01 - Bas-Saint-Laurent,34
+2020-04-10,02 - Saguenay–Lac-Saint-Jean,135
+2020-04-10,03 - Capitale Nationale,427
+2020-04-10,04 - Mauricie - Centre du Québec,673
+2020-04-10,05 - Estrie,642
+2020-04-10,06 - Montréal,5617
+2020-04-10,07 - Outaouais,141
+2020-04-10,08 - Abitibi-Temiscamingue,130
+2020-04-10,09 - Côte-Nord,84
+2020-04-10,10 - Nord-du-Québec,5
+2020-04-10,11 - Gaspésie-Îles-de-la-Madeleine,84
+2020-04-10,12 - Chaudière-Appalaches,222
+2020-04-10,13 - Laval,1017
+2020-04-10,14 - Lanaudière,738
+2020-04-10,15 - Laurentides,545
+2020-04-10,16 - Montérégie,1173
+2020-04-10,17 - Nunavik,5
+2020-04-10,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-11,01 - Bas-Saint-Laurent,34
+2020-04-11,02 - Saguenay–Lac-Saint-Jean,142
+2020-04-11,03 - Capitale Nationale,440
+2020-04-11,04 - Mauricie - Centre du Québec,711
+2020-04-11,05 - Estrie,661
+2020-04-11,06 - Montréal,5861
+2020-04-11,07 - Outaouais,157
+2020-04-11,08 - Abitibi-Temiscamingue,134
+2020-04-11,09 - Côte-Nord,92
+2020-04-11,10 - Nord-du-Québec,5
+2020-04-11,11 - Gaspésie-Îles-de-la-Madeleine,90
+2020-04-11,12 - Chaudière-Appalaches,230
+2020-04-11,13 - Laval,1108
+2020-04-11,14 - Lanaudière,788
+2020-04-11,15 - Laurentides,568
+2020-04-11,16 - Montérégie,1259
+2020-04-11,17 - Nunavik,7
+2020-04-11,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-12,01 - Bas-Saint-Laurent,34
+2020-04-12,02 - Saguenay–Lac-Saint-Jean,149
+2020-04-12,03 - Capitale Nationale,444
+2020-04-12,04 - Mauricie - Centre du Québec,739
+2020-04-12,05 - Estrie,689
+2020-04-12,06 - Montréal,6088
+2020-04-12,07 - Outaouais,169
+2020-04-12,08 - Abitibi-Temiscamingue,137
+2020-04-12,09 - Côte-Nord,92
+2020-04-12,10 - Nord-du-Québec,5
+2020-04-12,11 - Gaspésie-Îles-de-la-Madeleine,96
+2020-04-12,12 - Chaudière-Appalaches,247
+2020-04-12,13 - Laval,1231
+2020-04-12,14 - Lanaudière,808
+2020-04-12,15 - Laurentides,581
+2020-04-12,16 - Montérégie,1325
+2020-04-12,17 - Nunavik,7
+2020-04-12,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-13,01 - Bas-Saint-Laurent,34
+2020-04-13,02 - Saguenay–Lac-Saint-Jean,161
+2020-04-13,03 - Capitale Nationale,480
+2020-04-13,04 - Mauricie - Centre du Québec,785
+2020-04-13,05 - Estrie,704
+2020-04-13,06 - Montréal,6393
+2020-04-13,07 - Outaouais,169
+2020-04-13,08 - Abitibi-Temiscamingue,172
+2020-04-13,09 - Côte-Nord,95
+2020-04-13,10 - Nord-du-Québec,7
+2020-04-13,11 - Gaspésie-Îles-de-la-Madeleine,97
+2020-04-13,12 - Chaudière-Appalaches,272
+2020-04-13,13 - Laval,1268
+2020-04-13,14 - Lanaudière,868
+2020-04-13,15 - Laurentides,635
+2020-04-13,16 - Montérégie,1433
+2020-04-13,17 - Nunavik,10
+2020-04-13,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-14,01 - Bas-Saint-Laurent,34
+2020-04-14,02 - Saguenay–Lac-Saint-Jean,170
+2020-04-14,03 - Capitale Nationale,511
+2020-04-14,04 - Mauricie - Centre du Québec,830
+2020-04-14,05 - Estrie,721
+2020-04-14,06 - Montréal,6628
+2020-04-14,07 - Outaouais,180
+2020-04-14,08 - Abitibi-Temiscamingue,138
+2020-04-14,09 - Côte-Nord,96
+2020-04-14,10 - Nord-du-Québec,7
+2020-04-14,11 - Gaspésie-Îles-de-la-Madeleine,99
+2020-04-14,12 - Chaudière-Appalaches,286
+2020-04-14,13 - Laval,1358
+2020-04-14,14 - Lanaudière,946
+2020-04-14,15 - Laurentides,663
+2020-04-14,16 - Montérégie,1565
+2020-04-14,17 - Nunavik,11
+2020-04-14,18 - Terres-Cries-de-la-Baie-James,5
+2020-04-15,01 - Bas-Saint-Laurent,34
+2020-04-15,02 - Saguenay–Lac-Saint-Jean,175
+2020-04-15,03 - Capitale Nationale,528
+2020-04-15,04 - Mauricie - Centre du Québec,862
+2020-04-15,05 - Estrie,738
+2020-04-15,06 - Montréal,6830
+2020-04-15,07 - Outaouais,181
+2020-04-15,08 - Abitibi-Temiscamingue,139
+2020-04-15,09 - Côte-Nord,98
+2020-04-15,10 - Nord-du-Québec,7
+2020-04-15,11 - Gaspésie-Îles-de-la-Madeleine,103
+2020-04-15,12 - Chaudière-Appalaches,291
+2020-04-15,13 - Laval,1455
+2020-04-15,14 - Lanaudière,1026
+2020-04-15,15 - Laurentides,690
+2020-04-15,16 - Montérégie,1686
+2020-04-15,17 - Nunavik,12
+2020-04-15,18 - Terres-Cries-de-la-Baie-James,5
